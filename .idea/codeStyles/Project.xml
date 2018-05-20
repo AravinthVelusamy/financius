@@ -4,6 +4,9 @@
     <AndroidXmlCodeStyleSettings>
       <option name="USE_CUSTOM_SETTINGS" value="true" />
     </AndroidXmlCodeStyleSettings>
+    <MarkdownNavigatorCodeStyleSettings>
+      <option name="RIGHT_MARGIN" value="72" />
+    </MarkdownNavigatorCodeStyleSettings>
     <Objective-C-extensions>
       <file>
         <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -147,7 +150,7 @@
       <option name="METHOD_PARAMETERS_WRAP" value="5" />
       <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
       <option name="EXTENDS_LIST_WRAP" value="5" />
-      <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+      <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
       <option name="ASSIGNMENT_WRAP" value="5" />
       <option name="ENUM_CONSTANTS_WRAP" value="5" />
     </codeStyleSettings>
